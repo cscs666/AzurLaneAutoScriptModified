@@ -302,7 +302,6 @@ class AzurLaneConfig(ConfigUpdater, ManualConfig, GeneratedConfig, ConfigWatcher
         force_enable(
             [
                 "Commission",
-                "Research",
                 "Reward",
             ]
         )
